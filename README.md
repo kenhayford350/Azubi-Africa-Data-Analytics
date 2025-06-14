@@ -66,7 +66,7 @@ The data comes from direct marketing campaigns conducted via phone calls. The da
 ## 🧠 Technologies Used
 
 - Python (pandas, numpy, scikit-learn, matplotlib, seaborn)
-- Jupyter Notebook
+- Jupyter Notebook / Visual Studio Code
 - Google Colab (for demonstration/deployment)
 - Git & GitHub
 
@@ -74,8 +74,12 @@ The data comes from direct marketing campaigns conducted via phone calls. The da
 
 ## 📂 Contents
 
-- `new.ipynb` – Full notebook with EDA, modeling, and insights.
+- `Bank.ipynb` – Full notebook with EDA, modeling, and insights.
 - `bank-additional-full.csv` – Dataset used for training and analysis.
+- `bank-additional.csv` -10% of `bank-additional-full.csv` (4119), randomly selected from 1, and 20 inputs.
+- `bank-full.csv` -17 inputs, ordered by date (older version of this dataset `bank-additional-full.csv` with less inputs).
+-  `bank.csv` -10% of `bank-full.csv` and 17 inputs, randomly selected from 3 (older version of this dataset `bank-additional-full.csv` with less inputs).
+-  `bank-names.txt` -Relevant Information about the dataset
 - `README.md` – Project overview and documentation.
 
 ---
@@ -84,7 +88,7 @@ The data comes from direct marketing campaigns conducted via phone calls. The da
 
 1. Clone the repo:
   
-2. Open the notebook (`new.ipynb`) in Jupyter or Google Colab.
+2. Open the notebook (`Bank.ipynb`) in Jupyter or Google Colab.
 
 3. Run cells in sequence to reproduce the analysis and results.
 
@@ -94,6 +98,7 @@ The data comes from direct marketing campaigns conducted via phone calls. The da
 
 For questions or collaboration opportunities:  
 📧 Email: Hkenneth350@gmail.com
+🔗 LinkedIN: https://www.linkedin.com/in/kenneth-hayford/
 
 ---
 
